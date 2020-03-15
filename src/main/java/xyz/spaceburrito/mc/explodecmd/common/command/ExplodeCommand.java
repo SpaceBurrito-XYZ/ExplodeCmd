@@ -1,3 +1,12 @@
+/*
+    Copyright (c) SpaceBurritoXYZ Ltd., 2013 - 2020
+
+    This file and code contained within it is property of
+    SpaceBurritoXYZ Ltd., and may only be used with the explicit
+    written permission of SpaceBurritoXYZ Ltd. unless specified
+    otherwise in the License.
+ */
+
 package xyz.spaceburrito.mc.explodecmd.common.command;
 
 import net.minecraft.command.CommandBase;
