@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="ExplodeCmd" pattern="src[ExplodeCmd.main]:xyz.spaceburrito.mc.explodecmd..*" />
+</component>

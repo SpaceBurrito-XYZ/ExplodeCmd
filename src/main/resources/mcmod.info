@@ -1,0 +1,16 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "explodecmd",
+    "name": "ExplodeCmd",
+    "description": "command to blow yourself up",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["SpaceBurritoXYZ Ltd."],
+    "credits": "Made by the SpaceBurritoXYZ Team",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }]
+}
